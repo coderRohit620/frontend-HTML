@@ -1,0 +1,139 @@
+
+*{
+    background-color: #fff;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+div p{
+    color:#3f3b3b;
+}
+header{
+    width: 100%;
+    height: 75px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 50px 75px;
+    background-color:#fff;
+    /* opacity: 85%; */
+
+}
+.header{
+    font-size:50px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    /* text-transform: lowercase; */
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 25px;
+    /* font-weight: bold; */
+    
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color:#767676;
+    cursor: pointer;
+    font-weight: bold;
+}
+button{
+    background-color: #04ddb2;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 35px;
+    /* transition: all 0.4s ease-in 0s; */
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.container{
+    height: 2200px;
+    width: 100%;
+    background-color:#fff;
+}
+.center{
+    padding: 80px ;
+    
+  
+}
+p1{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 30px;
+    word-spacing: 2px;
+    padding: 25px ;
+}
+.box{
+    height: 650px;
+    width: 70%;
+    background-color: rgb(227, 227, 227);
+    border-radius: 50px;
+    margin-top: 80px;
+    /* box-shadow: none; */
+}
+img{
+    height: 550px;
+    width: 60%;
+    border-radius: 18px;
+    /* padding: 50px; */
+    margin: 50px;
+}
+/* video{
+    height: 550px;
+    width: 60%;
+    border-radius: 18px;
+    margin: 50px;
+
+} */
+
+p2{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    /* padding-top: 100px; */
+    
+}
+p3{
+    color:#04ddb2;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-button{
+    margin-top: 100px;
+}
+table{
+    width: 75%;
+    cursor: pointer;
+}
+
+th{
+    /* border: 1px solid black; */
+    width: 20.5%;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color:rgb(42, 40, 40);
+    /* word-spacing: 2px; */
+    text-align: left;
+    padding: 10px;
+}
+td{
+    font-size: 18px;
+    padding: 10px;
+    font-style: Arial;
+    color: #767676;
+    
+}
+                                           
